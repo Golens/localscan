@@ -1,0 +1,15 @@
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.xcscmblueprint
+*.xccheckout
+.swiftpm/
+
+# macOS
+.DS_Store
+
+# Пакування (zip/dmg додаються до GitHub Releases, не в репозиторій)
+*.zip
+*.dmg
